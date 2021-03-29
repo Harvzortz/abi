@@ -124,7 +124,7 @@
     <div class="w-full bg-gray-100 h-full">
 
         <div class="m-20">
-            <slot/> 
+            <slot/>
             </div>
 
 
